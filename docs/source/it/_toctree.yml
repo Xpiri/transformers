@@ -15,4 +15,6 @@
 - sections:
   - local: custom_models
     title: Condividere modelli personalizzati
+  - local: converting_tensorflow_models
+    title: Convertire checkpoints di TensorFlow
   title: How-to-guides
