@@ -29,5 +29,7 @@
     title: Addestramento con script
   - local: multilingual
     title: Modelli multilingua per l'inferenza
+  - local: converting_tensorflow_models
+    title: Convertire modelli tensorflow
   - local: debugging
     title: Debugging
